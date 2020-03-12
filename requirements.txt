@@ -1,0 +1,2 @@
+stop-words==2018.7.23
+texttable==1.6.2
